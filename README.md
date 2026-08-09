@@ -1,6 +1,6 @@
 # Seller Concentration & Freight Risk Analysis
 
-An end-to-end analysis of a 100K-order Brazilian e-commerce marketplace, built to answer questions most public analyses of this dataset skip: how dependent the platform is on its top sellers, how much cross-state shipping actually costs, and how much cross-sell opportunity is going untapped.
+An end-to-end analysis of a 100K-order e-commerce marketplace, built to answer questions most public analyses of this dataset skip: how dependent the platform is on its top sellers, how much cross-state shipping actually costs, and how much cross-sell opportunity is going untapped.
 
 ## The Business Problem
 
