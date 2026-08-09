@@ -6,7 +6,7 @@ An end-to-end analysis of a 100K-order e-commerce marketplace, built to answer q
 
 67.5% of marketplace revenue sits with the top 10% of sellers, cross-state freight costs are significantly higher than same-state freight, and only 1% of orders span more than one product category. Full problem framing and scope: [`05_Documentation/Business_Problem.md`](05_Documentation/Business_Problem.md).
 
-## What's in this repo
+## What's in this repo 
 
 ```
 ├── 01_Dataset/                              (raw source CSVs + data dictionary)
